@@ -12,7 +12,7 @@
 	<description>Spring Boot Atmosphere Sample</description>
 	<url>https://projects.spring.io/spring-boot/</url>
 	<organization>
-		<name>Pivotal Software, Inc.</name>
+		<name>VMware</name>
 		<url>https://www.spring.io</url>
 	</organization>
 	<properties>
